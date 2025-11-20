@@ -1,3 +1,4 @@
 [submodule "src/math"]
 	path = src/math
-	url = git@github.com:matteokeole/math
+	url = git@github.com:d-level/math
+	branch = main
